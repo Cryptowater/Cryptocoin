@@ -1,8 +1,6 @@
 Cryptocoin integration/staging tree
 ================================
 
-http://www.cryptocoin.org
-
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2019 Cryptocoin Developers
 
@@ -18,8 +16,6 @@ The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
-For more information, as well as an immediately useable, binary version of
-the Cryptocoin client sofware, see http://www.cryptocoin.org.
 
 License
 -------
