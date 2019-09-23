@@ -16,6 +16,8 @@ The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
+Windows Wallet Download
+https://github.com/Cryptowater/Cryptocoin/releases/tag/v0.8.2
 
 License
 -------
