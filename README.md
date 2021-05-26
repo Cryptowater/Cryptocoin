@@ -1,6 +1,6 @@
 I believe the success of a currency depends on the number of people who own it
 
-We all know what a cryptocurrency is and we all know what's the potential in it, then Mine it! Let's be the first this time! now it is worth nothing but it will be really valuable in a couple of years and really precious in 10! then think to have a piece of it know before is too late.
+We all know what a cryptocurrency is and we all know what's the potential in it, then Mine it! Let's be the first this time! now it is worth nothing but it will be really valuable in a couple of years and really precious in 10! then think to have a piece of it now before is too late.
 
 Cryptocoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.0 minute block targets
